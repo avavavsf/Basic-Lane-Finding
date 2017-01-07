@@ -1,4 +1,4 @@
-#**Finding Lane Lines on the Road** 
+#**Finding Lane Lines on the Road using OpenCV and computer vision algorithms** 
 
 I will update this readme file after to show my work in this project. 
 
